@@ -2,7 +2,7 @@
 
 ## How to Set Up the Server
 
-1. **Download the Server Files**: Ensure you have all the files in the `MinecraftBedrockServer` folder.
+1. **Download the lateat release ZIP**: Ensure you have all the files in the `MinecraftBedrockServer` folder.
 
 2. **Download the Bedrock Server Executable**:
    - Go to the official Minecraft website and download the Bedrock Dedicated Server executable.
@@ -15,14 +15,18 @@
 4. **Configure the Server**:
    - Edit the `server.properties` file to customize your server settings.
    - can be found in the MinecraftBedrockServer folder
+   - 
+ **before running the server make sure to add any mods you want otherwise you cant add them later unless you make a new server.**
 
 5. **Start the Server**:
    - Run the `startBedrockServer.bat` file to start the server.
    - dint run the EXE because the server launcher features wont work
 
-6. **Connect to the Server**:
+7. **Connect to the Server**:
    - Open Minecraft and connect to the server using `localhost` or `127.0.0.1`.
    - or port forward to play when your not on your wifi
    - (information on port forwarding coming soon)
+  
+   
 
 ## Enjoy Your Game!
