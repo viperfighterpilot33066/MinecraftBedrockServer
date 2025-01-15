@@ -20,12 +20,12 @@
 
 5. **Start the Server**:
    - Run the `startBedrockServer.bat` file to start the server.
-   - dint run the EXE because the server launcher features wont work
+   - dont run the EXE because the server launcher features wont work
 
 7. **Connect to the Server**:
    - Open Minecraft and connect to the server using `localhost` or `127.0.0.1`.
    - or port forward to play when your not on your wifi
-   - (information on port forwarding coming soon)
+   - easiest way to port forward is through a tunnel i use playit.gg tutorials on how to set that up can be found online
   
    
 
