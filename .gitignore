@@ -1,0 +1,10 @@
+# Ignore AppData directory
+AppData/
+# Ignore OneDrive directory
+OneDrive/
+# Ignore Visual Studio Code settings
+.vscode/
+# Ignore Git configuration file
+.gitconfig
+# Ignore log files
+*.log
