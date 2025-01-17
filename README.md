@@ -10,7 +10,7 @@
    - not nessesary unless the EXE file in the ZIP is missing
 
 3. **Accept the EULA**:
-   - go into the MInecraftBedrockServer BY Van Studios folder 
+   - go into the 'MInecraftBedrockServer BY Van Studios folder'
    - Open the `eula.txt` file and change `eula=false` to `eula=true` to accept the End User License Agreement.
 
 5. **Configure the Server**:
