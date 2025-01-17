@@ -10,15 +10,14 @@
    - not nessesary unless the EXE file in the ZIP is missing
 
 3. **Accept the EULA**:
+   - go into the MInecraftBedrockServer BY Van Studios folder 
    - Open the `eula.txt` file and change `eula=false` to `eula=true` to accept the End User License Agreement.
 
-4. **Configure the Server**:
+5. **Configure the Server**:
    - Edit the `server.properties` file to customize your server settings.
    - can be found in the MinecraftBedrockServer folder
-   - 
- **before running the server make sure to add any mods you want otherwise you cant add them later unless you make a new server.**
-
-5. **Start the Server**:
+     
+6. **Start the Server**:
    - Run the `startBedrockServer.bat` file to start the server.
    - dont run the EXE because the server launcher features wont work
 
@@ -26,7 +25,6 @@
    - Open Minecraft and connect to the server using `localhost` or `127.0.0.1`.
    - or port forward to play when your not on your wifi
    - easiest way to port forward is through a tunnel i use playit.gg tutorials on how to set that up can be found online
-  
-   
 
+  
 ## Enjoy Your Game!
