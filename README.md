@@ -1,4 +1,4 @@
-# Minecraft Bedrock Server Setup
+# Minecraft Bedrock Server Setup FOR WINDOWS ONLY DETAILS FOR LINUX CAN BE FOUND IN THE LINUX RELEASE NOTES
 
 ## How to Set Up the Server
 
