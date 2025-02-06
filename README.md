@@ -27,7 +27,6 @@
    - easiest way to port forward is through a tunnel i use playit.gg tutorials on how to set that up can be found online
 
   
-## Enjoy Your Game!
 
 # Minecraft Bedrock Server Setup FOR LINUX
 
@@ -90,3 +89,5 @@ Install **one** of the following packages:
 next execute
 `wine cmd`
 After that windows cmd will be played on your terminal. Go to the folder where your .bat file is located and copy the files location into the terminal and press enter. It will successfully run.
+
+## Enjoy Your Game!
