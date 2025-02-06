@@ -86,8 +86,27 @@ Install **one** of the following packages:
 | Development branch | `sudo apt install --install-recommends winehq-devel` |
 | Staging branch | `sudo apt install --install-recommends winehq-staging` |
 
+ **Accept the EULA**:
+   - go into the 'MInecraftBedrockServer BY Van Studios folder'
+   - Open the `eula.txt` file and change `eula=false` to `eula=true` to accept the End User License Agreement.
+
+ **Configure the Server**:
+   - Edit the `server.properties` file to customize your server settings.
+   - can be found in the MinecraftBedrockServer folder
+     
+ **Start the Server**:
+   - Run the `startBedrockServer.bat` file to start the server.
+   - dont run the EXE because the server launcher features wont work
+
+ **Connect to the Server**:
+   - Open Minecraft and connect to the server using `localhost` or `127.0.0.1`.
+   - or port forward to play when your not on your wifi
+   - easiest way to port forward is through a tunnel i use playit.gg tutorials on how to set that up can be found online
+
 next execute
 `wine cmd`
 After that windows cmd will be played on your terminal. Go to the folder where your .bat file is located and copy the files location into the terminal and press enter. It will successfully run.
+
+
 
 ## Enjoy Your Game!
